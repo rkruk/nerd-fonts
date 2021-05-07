@@ -87,9 +87,9 @@ _If you..._
 * A [FontForge Python script](#font-patcher) to patch any font
   * Includes an option to create **Monospaced (fixed-pitch, fixed-width)** _or_ **double-width (non-monospaced)** glyphs
   * For more details see the [**Font Patcher**](#font-patcher) section
-* **`50`** already [patched font families](#patched-fonts)
-* Over **`1,428,000`** unique combinations/variations of patched fonts [(more details)](#combinations)
-* Over **`2,600`** glyphs/icons combined [(more details)](#combinations)
+* **`51`** already [patched font families](#patched-fonts)
+* Over **`1,444,400`** unique combinations/variations of patched fonts [(more details)](#combinations)
+* Over **`2,824`** glyphs/icons combined [(more details)](#combinations)
   * Current glyph sets include: [Powerline with Extra Symbols][ryanoasis-powerline-extra-symbols], [Font Awesome][font-awesome], [Material Design Icons][font-material-design-icons], [Weather][font-weather], [Devicons][vorillaz-devicons], [Octicons][octicons], [Font Logos][font-linux] (Formerly [Font Linux][font-linux]), [Pomicons][gabrielelana-pomicons]
 * **Monospaced (fixed-pitch, fixed-width)** _or_ **double-width (non-monospaced)** glyphs version of each font
   * This refers to the Nerd Font glyphs themselves not necessarily the Font as a whole
@@ -133,7 +133,7 @@ See [Wiki: Icon names in shell][wiki-icon-names-in-shell]
 | [Hack Nerd Font][p-hack]                          | [Hack][f-hack]                    | NO   | 2048    | ![w] ![m2] ![l]   |
 | [Hasklug Nerd Font*][p-hasklig]                   | [Hasklig][f-hasklig]              | YES  | 1000    | ![w] ![m2] ![l]   |
 | [Heavy Data Mono Nerd Font][p-heavy-data]         |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
-| [Hermut Nerd Font][p-hermit]                      |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
+| [Hurmit Nerd Font][p-hermit]                      |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
 | [iM-Writing*][p-im-writing]                       | [iA-Writer][f-ia-writer]          | YES  | 1000    | ![w] ![m2] ![l]   |
 | [Inconsolata Nerd Font][p-inconsolata]            |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
 | [Inconsolata Go Nerd Font][p-inconsolata-go]      |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
@@ -142,6 +142,7 @@ See [Wiki: Icon names in shell][wiki-icon-names-in-shell]
 | [JetBrains Mono][p-jetbrains-mono]                | [JetBrains Mono][f-jetbrains-mono]| NO   | 1000    | ![w] ![m2] ![l]   |
 | [Lekton Nerd Font][p-lekton]                      |                                   | NO   | 1000    | ![w] ![m2] ![l]   |
 | [Literation Mono Nerd Font*][p-liberation]        | [Liberation][f-liberation]        | YES  | 2048    | ![w] ![m2] ![l]   |
+| [Lilex Nerd Font][p-lilex]                        | [Lilex][f-lilex]                  | NO   | 2000    | ![w2] ![m2] ![l]  |
 | [Meslo Nerd Font][p-meslo]                        |                                   | NO   | 2048    | ![w] ![m2] ![l]   |
 | [Monofur Nerd Font][p-monofur]                    |                                   | NO   | 2400    | ![w] ![m2] ![l]   |
 | [Monoid Nerd Font][p-monoid]                      |                                   | NO   | 1536    | ![w] ![m2] ![l]   |
@@ -167,12 +168,12 @@ See [Wiki: Icon names in shell][wiki-icon-names-in-shell]
 
 ## Combinations
 
-- Over **`1,428,000`** unique variations/combinations (Power Set) of patched fonts:
+- Over **`1,485,000`** unique variations/combinations (Power Set) of patched fonts:
   - **`50`** patched font typefaces
-  - **`697`** patched font families
-  - **`2,788`** 'complete' variations/combinations
-  - **`1,428,110`** _possible_ variations/combinations
-  - **`1,430,898`** total calculated combinations (2,788 + 1,428,110)
+  - **`719`** patched font families
+  - **`2,876`** 'complete' variations/combinations
+  - **`'1,485,410'`** _possible_ variations/combinations
+  - - **`1,488,286`** total calculated combinations (2,876 + 1,428,110)
 - Combinations for each font are any combination of [Variations](#variations)
 
 ### Variations
@@ -238,7 +239,7 @@ All fonts are available via [Homebrew Cask Fonts](https://github.com/Homebrew/ho
 
 ```sh
 brew tap homebrew/cask-fonts
-brew cask install font-hack-nerd-font
+brew install --cask font-hack-nerd-font
 ```
 
 ### `Option 5: Clone the Repo`
@@ -310,6 +311,7 @@ Patching the font of your own choosing for use with the [VimDevIcons ➶][vim-de
 * requires: Python 2 (or Python 3), `python-fontforge` package (version `20141231` or later, see
   the [install instructions](http://designwithfontforge.com/en-US/Installing_Fontforge.html))
 * alternative install method on OSX: `brew install fontforge`
+* alternative method using Docker: [Docker Hub](https://hub.docker.com/r/nerdfonts/patcher)
 * Usage:
 
 ```
@@ -322,6 +324,11 @@ Patching the font of your own choosing for use with the [VimDevIcons ➶][vim-de
 ./fontforge -script font-patcher PATH_TO_FONT
 ```
 
+* Patching fonts with Docker:
+
+```
+docker run -v /path/to/fonts:/in -v /path/for/output:/out nerdfonts/patcher [OPTIONS]
+```
 
 ```
 usage: font-patcher [-h] [-v] [-s] [-l] [-q] [-w] [-c] [--fontawesome]
@@ -396,7 +403,8 @@ optional arguments:
 	./font-patcher Inconsolata.otf --fontawesome
 	./font-patcher Inconsolata.otf --fontawesome --octicons --pomicons
 	./font-patcher Inconsolata.otf
-
+    docker run --rm -v ~/myfont/patchme:/in -v ~/myfont/patched:/out nerdfonts/patcher
+    docker run --rm -v ~/Desktop/myfont/patchme:/in -v ~/Desktop/myfont/patched:/out nerdfonts/patcher --fontawesome
 
 <a name="gotta-patch-em-all"></a>
 ## Gotta Patch 'em All Font Patcher!
@@ -527,6 +535,7 @@ Font repos
 [f-cousine]:https://fonts.google.com/specimen/Cousine
 [f-source]:https://github.com/adobe-fonts/source-code-pro
 [f-liberation]:https://pagure.io/liberation-fonts
+[f-lilex]:https://github.com/mishamyrt/Lilex
 [f-terminus]:http://terminus-font.sourceforge.net
 [f-fira-mono]:https://github.com/mozilla/Fira
 [f-fira-code]:https://github.com/tonsky/FiraCode
@@ -575,6 +584,7 @@ Patched Font internal links
 [p-hack]:patched-fonts/Hack
 [p-lekton]:patched-fonts/Lekton
 [p-liberation]:patched-fonts/LiberationMono
+[p-lilex]:patched-fonts/Lilex
 [p-meslo]:patched-fonts/Meslo
 [p-monofur]:patched-fonts/Monofur
 [p-monoid]:patched-fonts/Monoid
