@@ -16,250 +16,276 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 <div class="d-flex flex-row flex-wrap justify-content-center align-items-start center">
   <!-- do not change/fix the HTML indentation - it messes up the markdown rendering -->
   <!-- UPDATE START -->
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/8083459?v=4" width="100px;"/><br /><sub><b>Ryan L McIntyre</b></sub>](http://RyanLMcIntyre.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=ryanoasis "Code") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=ryanoasis "Documentation") [🎨](#design-ryanoasis "Design") [👀](#review-ryanoasis "Reviewed Pull Requests")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/4368882?v=4" width="100px;"/><br /><sub><b>Marcus Kellerman</b></sub>](https://github.com/sharkusk)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=sharkusk "Code") [👀](#review-sharkusk "Reviewed Pull Requests")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/23725670?v=4" width="100px;"/><br /><sub><b>reujab</b></sub>](https://github.com/reujab)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=reujab "Code") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=reujab "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/288160?v=4" width="100px;"/><br /><sub><b>Jamie Rolfs</b></sub>](http://jamie.rolfs.sh)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=jrolfs "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/50637?v=4" width="100px;"/><br /><sub><b>Aron Griffis</b></sub>](http://arongriffis.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=agriffis "Code") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=agriffis "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/26514778?v=4" width="100px;"/><br /><sub><b>morrme</b></sub>](https://github.com/morrme)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=morrme "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/9766?v=4" width="100px;"/><br /><sub><b>Daniel Hahler</b></sub>](https://daniel.hahler.de/)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=blueyed "Code") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=blueyed "Documentation")
-</div>
-
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/1354301?v=4" width="100px;"/><br /><sub><b>Alex Efros</b></sub>](https://powerman.name/)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=powerman "Code") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=powerman "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/845857?v=4" width="100px;"/><br /><sub><b>Joe Moon</b></sub>](https://joe.xoxomoon.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=sodiumjoe "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/607863?v=4" width="100px;"/><br /><sub><b>Brennan Fee</b></sub>](https://github.com/brennanfee)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=brennanfee "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/7405?v=4" width="100px;"/><br /><sub><b>Alexander Mankuta</b></sub>](https://pointless.one/)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=pointlessone "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/10278096?v=4" width="100px;"/><br /><sub><b>Melanie</b></sub>](http://berkley.io)<br />[👀](#review-her "Reviewed Pull Requests") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=her "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/145816?v=4" width="100px;"/><br /><sub><b>David McKay</b></sub>](https://rawkode.io)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=rawkode "Code") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=rawkode "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/714?v=4" width="100px;"/><br /><sub><b>Kevin Ballard</b></sub>](http://kevin.sb.org)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=kballard "Code") [📖](https://github.com/ryanoasis/nerd-fonts/commits?author=kballard "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1218446?v=4" width="100px;"/><br /><sub><b>Alistair MacDonald</b></sub>](https://f1lt3r.io)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=F1LT3R "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/899702?v=4" width="100px;"/><br /><sub><b>Shai Efrati</b></sub>](http://shaief.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=shaief "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/6695226?v=4" width="100px;"/><br /><sub><b>Jinwook Jeong</b></sub>](https://github.com/theGivingTree)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=theGivingTree "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1744347?v=4" width="100px;"/><br /><sub><b>Srijan R Shetty</b></sub>](http://srijanshetty.in)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=srijanshetty "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/524706?v=4" width="100px;"/><br /><sub><b>Antoine Rahier</b></sub>](https://github.com/Twanislas)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=Twanislas "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/8861305?v=4" width="100px;"/><br /><sub><b>Andy Bearman</b></sub>](https://github.com/andybearman)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=andybearman "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/3309784?v=4" width="100px;"/><br /><sub><b>Aidan Harris</b></sub>](https://aidanharr.is)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=aidanharris "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/593185?v=4" width="100px;"/><br /><sub><b>Tim Bellefleur</b></sub>](https://github.com/nomoon)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=nomoon "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/352956?v=4" width="100px;"/><br /><sub><b>Jing Li</b></sub>](http://basgeekball.com)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=thyrlian "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/3449303?v=4" width="100px;"/><br /><sub><b>Alois</b></sub>](http://aloisdg.github.io/)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=aloisdg "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/3533182?v=4" width="100px;"/><br /><sub><b>Daniel M. Capella</b></sub>](https://danielcapella.com)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=polyzen "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/1146921?v=4" width="100px;"/><br /><sub><b>Bin Ury</b></sub>](http://twitter.com/bin_ury)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=teddy-error "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/21279036?v=4" width="100px;"/><br /><sub><b>Omar Baradei</b></sub>](https://github.com/OmarB97)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=OmarB97 "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/184714?v=4" width="100px;"/><br /><sub><b>Ricardo Bánffy</b></sub>](http://about.me/rbanffy)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=rbanffy "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/225897?v=4" width="100px;"/><br /><sub><b>Leonardo Santagada</b></sub>](https://github.com/santagada)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=santagada "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1187078?v=4" width="100px;"/><br /><sub><b>Xandor Schiefer</b></sub>](https://twitter.com/zeorin)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=zeorin "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/3768247?v=4" width="100px;"/><br /><sub><b>iladin</b></sub>](https://github.com/iladin)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=iladin "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6800091?v=4" width="100px;"/><br /><sub><b>Luke Reed</b></sub>](https://github.com/lucasreed)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=lucasreed "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/6353225?v=4" width="100px;"/><br /><sub><b>Andrew Imeson</b></sub>](https://andrewimeson.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=andrewimeson "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/22199708?v=4" width="100px;"/><br /><sub><b>Alexey Salangin</b></sub>](https://github.com/magauran)<br />[🌍](#translation-magauran "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1525809?v=4" width="100px;"/><br /><sub><b>Ben Brooks</b></sub>](https://bbrks.me)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=bbrks "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/15131502?v=4" width="100px;"/><br /><sub><b>De Olagundoye</b></sub>](https://github.com/de-olagundoye)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=de-olagundoye "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/6120130?v=4" width="100px;"/><br /><sub><b>CHANG LIU</b></sub>](https://github.com/hiby90hou)<br />[🌍](#translation-hiby90hou "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/568036?v=4" width="100px;"/><br /><sub><b>Asger Hautop Drewsen</b></sub>](http://tyilo.com/)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=Tyilo "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/3585704?v=4" width="100px;"/><br /><sub><b>Fernando Mora</b></sub>](https://github.com/fernandomora)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=fernandomora "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/23266023?v=4" width="100px;"/><br /><sub><b>Ilia Loginov</b></sub>](https://github.com/iloginow)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=iloginow "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/7506495?v=4" width="100px;"/><br /><sub><b>MindyTai</b></sub>](https://github.com/MindyTai)<br />[🌍](#translation-MindyTai "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1835431?v=4" width="100px;"/><br /><sub><b>Phuurl</b></sub>](https://github.com/Phuurl)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=Phuurl "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/9556697?v=4" width="100px;"/><br /><sub><b>Samuel Ramos</b></sub>](https://github.com/samuelramox)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=samuelramox "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/57392?v=4" width="100px;"/><br /><sub><b>Logan Holmes</b></sub>](http://www.digimarc.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=snown "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1866496?v=4" width="100px;"/><br /><sub><b>Pierre Grimaud</b></sub>](https://p.ier.re)<br />[🌍](#translation-pgrimaud "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1996106?v=4" width="100px;"/><br /><sub><b>jerezereh</b></sub>](https://github.com/jerezereh)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=jerezereh "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/4249591?v=4" width="100px;"/><br /><sub><b>Chris Simpkins</b></sub>](https://github.com/chrissimpkins)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=chrissimpkins "Code") [🐛](https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Achrissimpkins "Bug reports") [🤔](#ideas-chrissimpkins "Ideas, Planning, & Feedback") [👀](#review-chrissimpkins "Reviewed Pull Requests")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/165531?v=4" width="100px;"/><br /><sub><b>Daniel Barber</b></sub>](https://danbarber.me)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=danbee "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/338418?v=4" width="100px;"/><br /><sub><b>Nicola Tuveri</b></sub>](https://github.com/romen)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=romen "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/24731903?v=4" width="100px;"/><br /><sub><b>Segev Finer</b></sub>](https://github.com/segevfiner)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=segevfiner "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/21281697?v=4" width="100px;"/><br /><sub><b>Igor Gavelyuk</b></sub>](https://github.com/igavelyuk)<br />[🌍](#translation-igavelyuk "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/33870508?v=4" width="100px;"/><br /><sub><b>Birger J. Nordølum</b></sub>](https://mindtooth.no)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=MindTooth "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/16012374?v=4" width="100px;"/><br /><sub><b>Fini</b></sub>](https://github.com/Finii)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=Finii "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/2487582?v=4" width="100px;"/><br /><sub><b>Juan Garcia</b></sub>](https://github.com/Tamh)<br />[🌍](#translation-Tamh "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/4953284?v=4" width="100px;"/><br /><sub><b>Andrew Newman</b></sub>](https://github.com/deadloko)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=deadloko "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/3372341?v=4" width="100px;"/><br /><sub><b>Anna Karpińska</b></sub>](https://github.com/P1X3L0V4)<br />[🌍](#translation-P1X3L0V4 "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/784324?v=4" width="100px;"/><br /><sub><b>David Lebel</b></sub>](http://lebel.org/)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=lebel "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/927214?v=4" width="100px;"/><br /><sub><b>Frédéric Simons</b></sub>](https://github.com/leoz2007)<br />[🌍](#translation-leoz2007 "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/10114577?v=4" width="100px;"/><br /><sub><b>Hugo van Rijswijk</b></sub>](https://github.com/hugo-vrijswijk)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=hugo-vrijswijk "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6539031?v=4" width="100px;"/><br /><sub><b>Jacopo Andrea Giola</b></sub>](https://github.com/JGiola)<br />[🌍](#translation-JGiola "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/95672?v=4" width="100px;"/><br /><sub><b>Kevin Suttle</b></sub>](https://kevinsuttle.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=kevinSuttle "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/893846?v=4" width="100px;"/><br /><sub><b>Knovour</b></sub>](https://notes.knovour.ninja)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=Knovour "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/5158408?v=4" width="100px;"/><br /><sub><b>LZong</b></sub>](https://github.com/LZong-tw)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=LZong-tw "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/30228?v=4" width="100px;"/><br /><sub><b>Luke Pearce</b></sub>](http://www.kulesolutions.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=kule "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/4390485?v=4" width="100px;"/><br /><sub><b>Mike Hatch</b></sub>](https://mikeshatch.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=mikeshatch "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/614934?v=4" width="100px;"/><br /><sub><b>Nikolaus Wittenstein</b></sub>](https://github.com/adzenith)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=adzenith "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/14547?v=4" width="100px;"/><br /><sub><b>No GUI</b></sub>](https://evaryont.me)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=evaryont "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/9019485?v=4" width="100px;"/><br /><sub><b>Ondra Pelech</b></sub>](https://github.com/sideeffffect)<br />[📖](https://github.com/ryanoasis/nerd-fonts/commits?author=sideeffffect "Documentation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/6410412?v=4" width="100px;"/><br /><sub><b>Park Seong-beom</b></sub>](https://parksb.github.io)<br />[🌍](#translation-ParkSB "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/8488446?v=4" width="100px;"/><br /><sub><b>Roshan Jossy</b></sub>](http://roshanjossey.github.io)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=Roshanjossey "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6344099?v=4" width="100px;"/><br /><sub><b>ShalokShalom</b></sub>](https://github.com/ShalokShalom)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=ShalokShalom "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/13551856?v=4" width="100px;"/><br /><sub><b>Spenser Truex</b></sub>](https://spensertruex.com)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=equwal "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/535947?v=4" width="100px;"/><br /><sub><b>Sri Kadimisetty</b></sub>](http://sri.io)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=kadimisetty "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/124871?v=4" width="100px;"/><br /><sub><b>Tatsuya Sato</b></sub>](https://satoryu.github.io/)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=satoryu "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1239245?v=4" width="100px;"/><br /><sub><b>JINNOUCHI Yasushi</b></sub>](https://twitter.com/delphinus35)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=delphinus "Code") [🤔](#ideas-delphinus "Ideas, Planning, & Feedback") [🌍](#translation-delphinus "Translation")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/32263167?v=4" width="100px;"/><br /><sub><b>raffclar</b></sub>](https://github.com/raffclar)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=raffclar "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6169021?v=4" width="100px;"/><br /><sub><b>mashehu</b></sub>](https://github.com/mashehu)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=mashehu "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/4255590?v=4" width="100px;"/><br /><sub><b>Rahul Iyer</b></sub>](https://rahuliyer.me)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=rahuliyer95 "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/24750409?v=4" width="100px;"/><br /><sub><b>sudoLife</b></sub>](https://github.com/sudoLife)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=sudoLife "Code")
-</div>
-<div markdown="1">
-[<img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/5390019?v=4" width="100px;"/><br /><sub><b>this_is_you</b></sub>](https://github.com/this-is-you)<br />[💻](https://github.com/ryanoasis/nerd-fonts/commits?author=this-is-you "Code")
-</div>
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
 
+
+<span style="display: inline-block; width: 130px;"><a href="http://RyanLMcIntyre.com"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/8083459?v=4?s=100" width="100px;" alt="Ryan L McIntyre"/><br /><sub><b>Ryan L McIntyre</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=ryanoasis" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=ryanoasis" title="Documentation">📖</a> <a href="#design-ryanoasis" title="Design">🎨</a> <a href="https://github.com/ryanoasis/nerd-fonts/pulls?q=is%3Apr+reviewed-by%3Aryanoasis" title="Reviewed Pull Requests">👀</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/sharkusk"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/4368882?v=4?s=100" width="100px;" alt="Marcus Kellerman"/><br /><sub><b>Marcus Kellerman</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=sharkusk" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/pulls?q=is%3Apr+reviewed-by%3Asharkusk" title="Reviewed Pull Requests">👀</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/reujab"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/23725670?v=4?s=100" width="100px;" alt="reujab"/><br /><sub><b>reujab</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=reujab" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=reujab" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://jamie.rolfs.sh"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/288160?v=4?s=100" width="100px;" alt="Jamie Rolfs"/><br /><sub><b>Jamie Rolfs</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=jrolfs" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://arongriffis.com"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/50637?v=4?s=100" width="100px;" alt="Aron Griffis"/><br /><sub><b>Aron Griffis</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=agriffis" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=agriffis" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/morrme"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/26514778?v=4?s=100" width="100px;" alt="morrme"/><br /><sub><b>morrme</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=morrme" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://daniel.hahler.de/"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/9766?v=4?s=100" width="100px;" alt="Daniel Hahler"/><br /><sub><b>Daniel Hahler</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=blueyed" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=blueyed" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://powerman.name/"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/1354301?v=4?s=100" width="100px;" alt="Alex Efros"/><br /><sub><b>Alex Efros</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=powerman" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=powerman" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://joe.xoxomoon.com"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/845857?v=4?s=100" width="100px;" alt="Joe Moon"/><br /><sub><b>Joe Moon</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=sodiumjoe" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/brennanfee"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/607863?v=4?s=100" width="100px;" alt="Brennan Fee"/><br /><sub><b>Brennan Fee</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=brennanfee" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://pointless.one/"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/7405?v=4?s=100" width="100px;" alt="Alexander Mankuta"/><br /><sub><b>Alexander Mankuta</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=pointlessone" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://berkley.io"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/10278096?v=4?s=100" width="100px;" alt="Melanie"/><br /><sub><b>Melanie</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/pulls?q=is%3Apr+reviewed-by%3Aher" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=her" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://rawkode.io"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/145816?v=4?s=100" width="100px;" alt="David McKay"/><br /><sub><b>David McKay</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=rawkode" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=rawkode" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://kevin.sb.org"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/714?v=4?s=100" width="100px;" alt="Kevin Ballard"/><br /><sub><b>Kevin Ballard</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kballard" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kballard" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://f1lt3r.io"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1218446?v=4?s=100" width="100px;" alt="Alistair MacDonald"/><br /><sub><b>Alistair MacDonald</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=F1LT3R" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://shaief.com"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/899702?v=4?s=100" width="100px;" alt="Shai Efrati"/><br /><sub><b>Shai Efrati</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=shaief" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/theGivingTree"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/6695226?v=4?s=100" width="100px;" alt="Jinwook Jeong"/><br /><sub><b>Jinwook Jeong</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=theGivingTree" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://srijanshetty.in"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1744347?v=4?s=100" width="100px;" alt="Srijan R Shetty"/><br /><sub><b>Srijan R Shetty</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=srijanshetty" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Twanislas"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/524706?v=4?s=100" width="100px;" alt="Antoine Rahier"/><br /><sub><b>Antoine Rahier</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Twanislas" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/andybearman"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/8861305?v=4?s=100" width="100px;" alt="Andy Bearman"/><br /><sub><b>Andy Bearman</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=andybearman" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://aidanharr.is"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/3309784?v=4?s=100" width="100px;" alt="Aidan Harris"/><br /><sub><b>Aidan Harris</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=aidanharris" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/nomoon"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/593185?v=4?s=100" width="100px;" alt="Tim Bellefleur"/><br /><sub><b>Tim Bellefleur</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=nomoon" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://basgeekball.com"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/352956?v=4?s=100" width="100px;" alt="Jing Li"/><br /><sub><b>Jing Li</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=thyrlian" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://aloisdg.github.io/"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/3449303?v=4?s=100" width="100px;" alt="Alois"/><br /><sub><b>Alois</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=aloisdg" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://danielcapella.com"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/3533182?v=4?s=100" width="100px;" alt="Daniel M. Capella"/><br /><sub><b>Daniel M. Capella</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=polyzen" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://twitter.com/bin_ury"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/1146921?v=4?s=100" width="100px;" alt="Bin Ury"/><br /><sub><b>Bin Ury</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=teddy-error" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/OmarB97"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/21279036?v=4?s=100" width="100px;" alt="Omar Baradei"/><br /><sub><b>Omar Baradei</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=OmarB97" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://about.me/rbanffy"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/184714?v=4?s=100" width="100px;" alt="Ricardo Bánffy"/><br /><sub><b>Ricardo Bánffy</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=rbanffy" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/santagada"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/225897?v=4?s=100" width="100px;" alt="Leonardo Santagada"/><br /><sub><b>Leonardo Santagada</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=santagada" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://twitter.com/zeorin"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1187078?v=4?s=100" width="100px;" alt="Xandor Schiefer"/><br /><sub><b>Xandor Schiefer</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=zeorin" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/iladin"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/3768247?v=4?s=100" width="100px;" alt="iladin"/><br /><sub><b>iladin</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=iladin" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/lucasreed"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6800091?v=4?s=100" width="100px;" alt="Luke Reed"/><br /><sub><b>Luke Reed</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=lucasreed" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://andrewimeson.com"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/6353225?v=4?s=100" width="100px;" alt="Andrew Imeson"/><br /><sub><b>Andrew Imeson</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=andrewimeson" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/magauran"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/22199708?v=4?s=100" width="100px;" alt="Alexey Salangin"/><br /><sub><b>Alexey Salangin</b></sub></a><br /><a href="#translation-magauran" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://bbrks.me"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1525809?v=4?s=100" width="100px;" alt="Ben Brooks"/><br /><sub><b>Ben Brooks</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=bbrks" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/de-olagundoye"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/15131502?v=4?s=100" width="100px;" alt="De Olagundoye"/><br /><sub><b>De Olagundoye</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=de-olagundoye" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/hiby90hou"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/6120130?v=4?s=100" width="100px;" alt="CHANG LIU"/><br /><sub><b>CHANG LIU</b></sub></a><br /><a href="#translation-hiby90hou" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://tyilo.com/"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/568036?v=4?s=100" width="100px;" alt="Asger Hautop Drewsen"/><br /><sub><b>Asger Hautop Drewsen</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Tyilo" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/fernandomora"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/3585704?v=4?s=100" width="100px;" alt="Fernando Mora"/><br /><sub><b>Fernando Mora</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=fernandomora" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/iloginow"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/23266023?v=4?s=100" width="100px;" alt="Ilia Loginov"/><br /><sub><b>Ilia Loginov</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=iloginow" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/MindyTai"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/7506495?v=4?s=100" width="100px;" alt="MindyTai"/><br /><sub><b>MindyTai</b></sub></a><br /><a href="#translation-MindyTai" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Phuurl"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1835431?v=4?s=100" width="100px;" alt="Phuurl"/><br /><sub><b>Phuurl</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Phuurl" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/samuelramox"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/9556697?v=4?s=100" width="100px;" alt="Samuel Ramos"/><br /><sub><b>Samuel Ramos</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=samuelramox" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://www.digimarc.com"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/57392?v=4?s=100" width="100px;" alt="Logan Holmes"/><br /><sub><b>Logan Holmes</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=snown" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://p.ier.re"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1866496?v=4?s=100" width="100px;" alt="Pierre Grimaud"/><br /><sub><b>Pierre Grimaud</b></sub></a><br /><a href="#translation-pgrimaud" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/jerezereh"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/1996106?v=4?s=100" width="100px;" alt="jerezereh"/><br /><sub><b>jerezereh</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=jerezereh" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/chrissimpkins"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/4249591?v=4?s=100" width="100px;" alt="Chris Simpkins"/><br /><sub><b>Chris Simpkins</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=chrissimpkins" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Achrissimpkins" title="Bug reports">🐛</a> <a href="#ideas-chrissimpkins" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ryanoasis/nerd-fonts/pulls?q=is%3Apr+reviewed-by%3Achrissimpkins" title="Reviewed Pull Requests">👀</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://danbarber.me"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/165531?v=4?s=100" width="100px;" alt="Daniel Barber"/><br /><sub><b>Daniel Barber</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=danbee" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/romen"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/338418?v=4?s=100" width="100px;" alt="Nicola Tuveri"/><br /><sub><b>Nicola Tuveri</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=romen" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/segevfiner"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/24731903?v=4?s=100" width="100px;" alt="Segev Finer"/><br /><sub><b>Segev Finer</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=segevfiner" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/igavelyuk"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/21281697?v=4?s=100" width="100px;" alt="Igor Gavelyuk"/><br /><sub><b>Igor Gavelyuk</b></sub></a><br /><a href="#translation-igavelyuk" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://mindtooth.no"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/33870508?v=4?s=100" width="100px;" alt="Birger J. Nordølum"/><br /><sub><b>Birger J. Nordølum</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=MindTooth" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Finii"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/16012374?v=4?s=100" width="100px;" alt="Fini"/><br /><sub><b>Fini</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Finii" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Tamh"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/2487582?v=4?s=100" width="100px;" alt="Juan Garcia"/><br /><sub><b>Juan Garcia</b></sub></a><br /><a href="#translation-Tamh" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/deadloko"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/4953284?v=4?s=100" width="100px;" alt="Andrew Newman"/><br /><sub><b>Andrew Newman</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=deadloko" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/P1X3L0V4"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/3372341?v=4?s=100" width="100px;" alt="Anna Karpińska"/><br /><sub><b>Anna Karpińska</b></sub></a><br /><a href="#translation-P1X3L0V4" title="Translation">🌍</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="http://lebel.org/"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/784324?v=4?s=100" width="100px;" alt="David Lebel"/><br /><sub><b>David Lebel</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=lebel" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/leoz2007"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/927214?v=4?s=100" width="100px;" alt="Frédéric Simons"/><br /><sub><b>Frédéric Simons</b></sub></a><br /><a href="#translation-leoz2007" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/hugo-vrijswijk"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/10114577?v=4?s=100" width="100px;" alt="Hugo van Rijswijk"/><br /><sub><b>Hugo van Rijswijk</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=hugo-vrijswijk" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/JGiola"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6539031?v=4?s=100" width="100px;" alt="Jacopo Andrea Giola"/><br /><sub><b>Jacopo Andrea Giola</b></sub></a><br /><a href="#translation-JGiola" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://kevinsuttle.com"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/95672?v=4?s=100" width="100px;" alt="Kevin Suttle"/><br /><sub><b>Kevin Suttle</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kevinSuttle" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://notes.knovour.ninja"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/893846?v=4?s=100" width="100px;" alt="Knovour"/><br /><sub><b>Knovour</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Knovour" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/LZong-tw"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/5158408?v=4?s=100" width="100px;" alt="LZong"/><br /><sub><b>LZong</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=LZong-tw" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="http://www.kulesolutions.com"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/30228?v=4?s=100" width="100px;" alt="Luke Pearce"/><br /><sub><b>Luke Pearce</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kule" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://mikeshatch.com"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/4390485?v=4?s=100" width="100px;" alt="Mike Hatch"/><br /><sub><b>Mike Hatch</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mikeshatch" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/adzenith"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/614934?v=4?s=100" width="100px;" alt="Nikolaus Wittenstein"/><br /><sub><b>Nikolaus Wittenstein</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=adzenith" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://evaryont.me"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/14547?v=4?s=100" width="100px;" alt="No GUI"/><br /><sub><b>No GUI</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=evaryont" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/sideeffffect"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/9019485?v=4?s=100" width="100px;" alt="Ondra Pelech"/><br /><sub><b>Ondra Pelech</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=sideeffffect" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://parksb.github.io"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/6410412?v=4?s=100" width="100px;" alt="Park Seong-beom"/><br /><sub><b>Park Seong-beom</b></sub></a><br /><a href="#translation-ParkSB" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://roshanjossey.github.io"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/8488446?v=4?s=100" width="100px;" alt="Roshan Jossy"/><br /><sub><b>Roshan Jossy</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Roshanjossey" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/ShalokShalom"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6344099?v=4?s=100" width="100px;" alt="ShalokShalom"/><br /><sub><b>ShalokShalom</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=ShalokShalom" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://spensertruex.com"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/13551856?v=4?s=100" width="100px;" alt="Spenser Truex"/><br /><sub><b>Spenser Truex</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=equwal" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://sri.io"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/535947?v=4?s=100" width="100px;" alt="Sri Kadimisetty"/><br /><sub><b>Sri Kadimisetty</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kadimisetty" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://satoryu.github.io/"><img class="lzy_img" data-src="https://avatars2.githubusercontent.com/u/124871?v=4?s=100" width="100px;" alt="Tatsuya Sato"/><br /><sub><b>Tatsuya Sato</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=satoryu" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://twitter.com/delphinus35"><img class="lzy_img" data-src="https://avatars3.githubusercontent.com/u/1239245?v=4?s=100" width="100px;" alt="JINNOUCHI Yasushi"/><br /><sub><b>JINNOUCHI Yasushi</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=delphinus" title="Code">💻</a> <a href="#ideas-delphinus" title="Ideas, Planning, & Feedback">🤔</a> <a href="#translation-delphinus" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/raffclar"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/32263167?v=4?s=100" width="100px;" alt="raffclar"/><br /><sub><b>raffclar</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=raffclar" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/mashehu"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/6169021?v=4?s=100" width="100px;" alt="mashehu"/><br /><sub><b>mashehu</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mashehu" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://rahuliyer.me"><img class="lzy_img" data-src="https://avatars0.githubusercontent.com/u/4255590?v=4?s=100" width="100px;" alt="Rahul Iyer"/><br /><sub><b>Rahul Iyer</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=rahuliyer95" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/sudoLife"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/24750409?v=4?s=100" width="100px;" alt="sudoLife"/><br /><sub><b>sudoLife</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=sudoLife" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/this-is-you"><img class="lzy_img" data-src="https://avatars1.githubusercontent.com/u/5390019?v=4?s=100" width="100px;" alt="this_is_you"/><br /><sub><b>this_is_you</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=this-is-you" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/moritzdietz"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/7935536?v=4?s=100" width="100px;" alt="Moritz Dietz"/><br /><sub><b>Moritz Dietz</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=moritzdietz" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/LuanVSO"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/43626415?v=4?s=100" width="100px;" alt="Luan Vitor Simião Oliveira"/><br /><sub><b>Luan Vitor Simião Oliveira</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=LuanVSO" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://cern.ch/adavid"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/4256469?v=4?s=100" width="100px;" alt="André David"/><br /><sub><b>André David</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=adavidzh" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://fsackur.github.io/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/3678789?v=4?s=100" width="100px;" alt="Freddie Sackur"/><br /><sub><b>Freddie Sackur</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=fsackur" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://gusbemacbe.herokuapp.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/2257024?v=4?s=100" width="100px;" alt="Gustavo Reis"/><br /><sub><b>Gustavo Reis</b></sub></a><br /><a href="#translation-gusbemacbe" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://folliehiyuki.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/67634026?v=4?s=100" width="100px;" alt="FollieHiyuki"/><br /><sub><b>FollieHiyuki</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=FollieHiyuki" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://andylindeman.com/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/395621?v=4?s=100" width="100px;" alt="Andy Lindeman"/><br /><sub><b>Andy Lindeman</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=alindeman" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/gitfool"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/750121?v=4?s=100" width="100px;" alt="Sean Fausett"/><br /><sub><b>Sean Fausett</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=gitfool" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://andys8.de"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/13085980?v=4?s=100" width="100px;" alt="Andy"/><br /><sub><b>Andy</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=andys8" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://codetalk.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/1189998?v=4?s=100" width="100px;" alt="Christian Kjær"/><br /><sub><b>Christian Kjær</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Tehnix" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://alexislefebvre.com/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/2071331?v=4?s=100" width="100px;" alt="Alexis Lefebvre"/><br /><sub><b>Alexis Lefebvre</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=alexislefebvre" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/quinnjr"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/423821?v=4?s=100" width="100px;" alt="Joseph Quinn"/><br /><sub><b>Joseph Quinn</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=quinnjr" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/iamolivinius"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/832245?v=4?s=100" width="100px;" alt="Oliver Hoffmann"/><br /><sub><b>Oliver Hoffmann</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=iamolivinius" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/adrian5"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5426924?v=4?s=100" width="100px;" alt="adrian5"/><br /><sub><b>adrian5</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=adrian5" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/dgswilkins"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/12202069?v=4?s=100" width="100px;" alt="Douglas Wilkins"/><br /><sub><b>Douglas Wilkins</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=dgswilkins" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/duganchen"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/447610?v=4?s=100" width="100px;" alt="duganchen"/><br /><sub><b>duganchen</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=duganchen" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://bsd.ac/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/8932410?v=4?s=100" width="100px;" alt="A. Tammy"/><br /><sub><b>A. Tammy</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=epsilon-0" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/mamantoha"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/61285?v=4?s=100" width="100px;" alt="Anton Maminov"/><br /><sub><b>Anton Maminov</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mamantoha" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/cata0309"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/35623921?v=4?s=100" width="100px;" alt="Catalin Marincia"/><br /><sub><b>Catalin Marincia</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cata0309" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://diddledani.com/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/147548?v=4?s=100" width="100px;" alt="Dani Llewellyn"/><br /><sub><b>Dani Llewellyn</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=diddledani" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://drasite.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/12565871?v=4?s=100" width="100px;" alt="DяA"/><br /><sub><b>DяA</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=daniruiz" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://www.moduletux.com/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/2914211?v=4?s=100" width="100px;" alt="David Hollinger III"/><br /><sub><b>David Hollinger III</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=dhollinger" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://garcy.es"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/9999104?v=4?s=100" width="100px;" alt="Enrique García Galán"/><br /><sub><b>Enrique García Galán</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=ea2809" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://stackoverflow.com/users/11465149/giorgos-xou?tab=summary"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/11987271?v=4?s=100" width="100px;" alt="GiorgosXou"/><br /><sub><b>GiorgosXou</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=GiorgosXou" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Harwood"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/1222752?v=4?s=100" width="100px;" alt="Harwood"/><br /><sub><b>Harwood</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Harwood" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://hugo.barrera.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/730811?v=4?s=100" width="100px;" alt="Hugo Osvaldo Barrera"/><br /><sub><b>Hugo Osvaldo Barrera</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=WhyNotHugo" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/JakobFerdinand"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/16666458?v=4?s=100" width="100px;" alt="Jakob Ferdinand Wegenschimmel"/><br /><sub><b>Jakob Ferdinand Wegenschimmel</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=JakobFerdinand" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://www.jes.dav.pet"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5464587?v=4?s=100" width="100px;" alt="Jesse David Peterson"/><br /><sub><b>Jesse David Peterson</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=jesdavpet" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/LiTO773"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/9774614?v=4?s=100" width="100px;" alt="Luís Pinto"/><br /><sub><b>Luís Pinto</b></sub></a><br /><a href="#translation-LiTO773" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://metacpan.org/author/MATTK"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/27742?v=4?s=100" width="100px;" alt="░░░░ ░░░░░░░"/><br /><sub><b>░░░░ ░░░░░░░</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=atomicstack" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Skeeve"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/725404?v=4?s=100" width="100px;" alt="Stephan Hradek"/><br /><sub><b>Stephan Hradek</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Skeeve" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/vnys"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/2081882?v=4?s=100" width="100px;" alt="Victor Nystad"/><br /><sub><b>Victor Nystad</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=vnys" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="http://kraftwerk28.pp.ua"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/31807671?v=4?s=100" width="100px;" alt="Vsevolod"/><br /><sub><b>Vsevolod</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kraftwerk28" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://fracsinus.me"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/32260844?v=4?s=100" width="100px;" alt="Shinho Ahn"/><br /><sub><b>Shinho Ahn</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=fracsinus" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/kazukazuinaina"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/36619465?v=4?s=100" width="100px;" alt="IK"/><br /><sub><b>IK</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kazukazuinaina" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://natebwangsut.github.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/4032361?v=4?s=100" width="100px;" alt="Nate Bhurinat Wangsutthitham"/><br /><sub><b>Nate Bhurinat Wangsutthitham</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=natebwangsut" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://blog.katio.net/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/14256420?v=4?s=100" width="100px;" alt="onokatio"/><br /><sub><b>onokatio</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=onokatio" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/lepht"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/130093?v=4?s=100" width="100px;" alt="petec"/><br /><sub><b>petec</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=lepht" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/HarshalRathore"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/76205196?v=4?s=100" width="100px;" alt="HarshalRathore"/><br /><sub><b>HarshalRathore</b></sub></a><br /><a href="#translation-HarshalRathore" title="Translation">🌍</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="http://cstrahan.com/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/143982?v=4?s=100" width="100px;" alt="Charles Strahan"/><br /><sub><b>Charles Strahan</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cstrahan" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/chezbgone"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/7344128?v=4?s=100" width="100px;" alt="Jason Chen"/><br /><sub><b>Jason Chen</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=chezbgone" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://blog.kurtstories.com/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/32745146?v=4?s=100" width="100px;" alt="Kurt"/><br /><sub><b>Kurt</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kurt-liao" title="Documentation">📖</a> <a href="#translation-kurt-liao" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/mrienstra"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/669326?v=4?s=100" width="100px;" alt="Michael Rienstra"/><br /><sub><b>Michael Rienstra</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mrienstra" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://chrislong.me/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/137214?v=4?s=100" width="100px;" alt="Chris Long"/><br /><sub><b>Chris Long</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cglong" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://t.me/mrtnvgr"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/48406064?v=4?s=100" width="100px;" alt="Егор Мартынов"/><br /><sub><b>Егор Мартынов</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mrtnvgr" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/nathanielevan"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/9361126?v=4?s=100" width="100px;" alt="Nathaniel Evan"/><br /><sub><b>Nathaniel Evan</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=nathanielevan" title="Code">💻</a> <a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Anathanielevan" title="Bug reports">🐛</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="http://goooler.github.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/10363352?v=4?s=100" width="100px;" alt="Goooler"/><br /><sub><b>Goooler</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Goooler" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/MicaelJarniac"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/19514231?v=4?s=100" width="100px;" alt="Micael Jarniac"/><br /><sub><b>Micael Jarniac</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=MicaelJarniac" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/teatimeguest"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/90523111?v=4?s=100" width="100px;" alt="teatimeguest"/><br /><sub><b>teatimeguest</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=teatimeguest" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://keybase.io/bri_"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/284789?v=4?s=100" width="100px;" alt="bri"/><br /><sub><b>bri</b></sub></a><br /><a href="#infra-b-" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Calciferz"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5092597?v=4?s=100" width="100px;" alt="Calcifer"/><br /><sub><b>Calcifer</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Calciferz" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Weltolk"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/40228052?v=4?s=100" width="100px;" alt="Weltolk"/><br /><sub><b>Weltolk</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Weltolk" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://mtoohey.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/36740602?v=4?s=100" width="100px;" alt="Matthew Toohey"/><br /><sub><b>Matthew Toohey</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mtoohey31" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Fxzzi"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/18248986?v=4?s=100" width="100px;" alt="Fazzi"/><br /><sub><b>Fazzi</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3AFxzzi" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://jimeh.me/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/39563?v=4?s=100" width="100px;" alt="Jim Myhrberg"/><br /><sub><b>Jim Myhrberg</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Ajimeh" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://maazu.xyz"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/80816622?v=4?s=100" width="100px;" alt="Maaz"/><br /><sub><b>Maaz</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mmaaaaz" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://negset.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/15167516?v=4?s=100" width="100px;" alt="negset"/><br /><sub><b>negset</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=negset" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/airt"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5058439?v=4?s=100" width="100px;" alt="airt"/><br /><sub><b>airt</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=airt" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/cherryblossom000"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/31467609?v=4?s=100" width="100px;" alt="Lauren Yim"/><br /><sub><b>Lauren Yim</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Acherryblossom000" title="Bug reports">🐛</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cherryblossom000" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/SilverMira"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/66930495?v=4?s=100" width="100px;" alt="SilverMira"/><br /><sub><b>SilverMira</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3ASilverMira" title="Bug reports">🐛</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/rszyma"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/44318430?v=4?s=100" width="100px;" alt="rszyma"/><br /><sub><b>rszyma</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=rszyma" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/hasecilu"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/53124818?v=4?s=100" width="100px;" alt="Ulices"/><br /><sub><b>Ulices</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=hasecilu" title="Code">💻</a> <a href="#translation-hasecilu" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://karmenzind.github.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/17923071?v=4?s=100" width="100px;" alt="_kmz"/><br /><sub><b>_kmz</b></sub></a><br /><a href="#ideas-Karmenzind" title="Ideas, Planning, & Feedback">🤔</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/N-R-K"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/79544946?v=4?s=100" width="100px;" alt="NRK"/><br /><sub><b>NRK</b></sub></a><br /><a href="#ideas-N-R-K" title="Ideas, Planning, & Feedback">🤔</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://loichyan.me"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/73006950?v=4?s=100" width="100px;" alt="loichyan"/><br /><sub><b>loichyan</b></sub></a><br /><a href="#tool-loichyan" title="Tools">🔧</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/senketsu03"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/111694096?v=4?s=100" width="100px;" alt="senketsu03"/><br /><sub><b>senketsu03</b></sub></a><br /><a href="#translation-senketsu03" title="Translation">🌍</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/sorashi"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/6270283?v=4?s=100" width="100px;" alt="Dennis Pražák"/><br /><sub><b>Dennis Pražák</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=sorashi" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="http://nilueps.net"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/55964909?v=4?s=100" width="100px;" alt="Nicolas Epstein"/><br /><sub><b>Nicolas Epstein</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=sqwxl" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/LeoniePhiline"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/22329650?v=4?s=100" width="100px;" alt="LeoniePhiline"/><br /><sub><b>LeoniePhiline</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3ALeoniePhiline" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/frantisekhanzlikbl"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/43645405?v=4?s=100" width="100px;" alt="František Hanzlík"/><br /><sub><b>František Hanzlík</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=frantisekhanzlikbl" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/VitthalGund"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/97181033?v=4?s=100" width="100px;" alt="Vitthal Popat Gund"/><br /><sub><b>Vitthal Popat Gund</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=VitthalGund" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://piraces.dev"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/11027628?v=4?s=100" width="100px;" alt="Raul Piraces Alastuey"/><br /><sub><b>Raul Piraces Alastuey</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=piraces" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/kingarrrt"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/752293?v=4?s=100" width="100px;" alt="King Art"/><br /><sub><b>King Art</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=kingarrrt" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://sourcelevel.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/2929?v=4?s=100" width="100px;" alt="George Guimarães"/><br /><sub><b>George Guimarães</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=georgeguimaraes" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://twitter.com/Grazfather"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/497310?v=4?s=100" width="100px;" alt="Grazfather"/><br /><sub><b>Grazfather</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Grazfather" title="Code">💻</a> <a href="#design-Grazfather" title="Design">🎨</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://tom.lnrd.fr"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/43268759?v=4?s=100" width="100px;" alt="Tom Lienard"/><br /><sub><b>Tom Lienard</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=QuiiBz" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/skryukov"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/23056378?v=4?s=100" width="100px;" alt="Svyatoslav Kryukov"/><br /><sub><b>Svyatoslav Kryukov</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=skryukov" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/julien-blanchon"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/11278197?v=4?s=100" width="100px;" alt="Blanchon"/><br /><sub><b>Blanchon</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=julien-blanchon" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://felixc.at"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/1006477?v=4?s=100" width="100px;" alt="Felix Yan"/><br /><sub><b>Felix Yan</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=felixonmars" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://cpea2506.github.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/42694704?v=4?s=100" width="100px;" alt="PinkLea"/><br /><sub><b>PinkLea</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cpea2506" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/brettKK"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5836417?v=4?s=100" width="100px;" alt="brett"/><br /><sub><b>brett</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3AbrettKK" title="Bug reports">🐛</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://hello.mdsanima.dev"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/3817871?v=4?s=100" width="100px;" alt="Marcin Różewski"/><br /><sub><b>Marcin Różewski</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=mdsanima" title="Code">💻</a> <a href="#maintenance-mdsanima" title="Maintenance">🚧</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Zshoham"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/16373114?v=4?s=100" width="100px;" alt="Shohamza"/><br /><sub><b>Shohamza</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Zshoham" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/nobk"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/4659870?v=4?s=100" width="100px;" alt="nobk"/><br /><sub><b>nobk</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=nobk" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://saygo-png.github.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/131687037?v=4?s=100" width="100px;" alt="Saygo"/><br /><sub><b>Saygo</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=saygo-png" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/kazerniel"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5689996?v=4?s=100" width="100px;" alt="kazerniel"/><br /><sub><b>kazerniel</b></sub></a><br /><a href="#a11y-kazerniel" title="Accessibility">️️️️♿️</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/landfillbaby"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/20822924?v=4?s=100" width="100px;" alt="Lucy Phipps"/><br /><sub><b>Lucy Phipps</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Alandfillbaby" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://glow.li"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/7983745?v=4?s=100" width="100px;" alt="glow"/><br /><sub><b>glow</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Neo-Oli" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/junoslukan"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/19954026?v=4?s=100" width="100px;" alt="junoslukan"/><br /><sub><b>junoslukan</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=junoslukan" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/roginfarrer"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/9063669?v=4?s=100" width="100px;" alt="Rogin Farrer"/><br /><sub><b>Rogin Farrer</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=roginfarrer" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://ronitkrshah.github.io"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/118371892?v=4?s=100" width="100px;" alt="RKS"/><br /><sub><b>RKS</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=ronitkrshah" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://www.madmaxieee.dev/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/76544194?v=4?s=100" width="100px;" alt="莊加旭 (Max Chuang)"/><br /><sub><b>莊加旭 (Max Chuang)</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=madmaxieee" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://gitlab.com/gboehm"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/12833794?v=4?s=100" width="100px;" alt="Guillaume BOEHM"/><br /><sub><b>Guillaume BOEHM</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=guillaumeboehm" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/cricrio"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/16168447?v=4?s=100" width="100px;" alt="Christopher Bellanger"/><br /><sub><b>Christopher Bellanger</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cricrio" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/luebking"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5768413?v=4?s=100" width="100px;" alt="luebking"/><br /><sub><b>luebking</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Aluebking" title="Bug reports">🐛</a> <a href="https://github.com/ryanoasis/nerd-fonts/pulls?q=is%3Apr+reviewed-by%3Aluebking" title="Reviewed Pull Requests">👀</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/a-usr"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/81042605?v=4?s=100" width="100px;" alt="usr"/><br /><sub><b>usr</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/pulls?q=is%3Apr+reviewed-by%3Aa-usr" title="Reviewed Pull Requests">👀</a> <a href="#ideas-a-usr" title="Ideas, Planning, & Feedback">🤔</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/trashner"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/13357412?v=4?s=100" width="100px;" alt="trashner"/><br /><sub><b>trashner</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/pulls?q=is%3Apr+reviewed-by%3Atrashner" title="Reviewed Pull Requests">👀</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/kierun"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/3079575?v=4?s=100" width="100px;" alt="Dr Yann Golanski"/><br /><sub><b>Dr Yann Golanski</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Akierun" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/herself"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/609094?v=4?s=100" width="100px;" alt="Wiesław Herr"/><br /><sub><b>Wiesław Herr</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=herself" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://www.slabity.net/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/3788421?v=4?s=100" width="100px;" alt="Slabity"/><br /><sub><b>Slabity</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3ASlabity" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/iruoy"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/5859352?v=4?s=100" width="100px;" alt="Youri Wijnands"/><br /><sub><b>Youri Wijnands</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=iruoy" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Kirito139"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/99382674?v=4?s=100" width="100px;" alt="Lennier Mulder"/><br /><sub><b>Lennier Mulder</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Kirito139" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="http://about.earrayminkoff.tech"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/33302691?v=4?s=100" width="100px;" alt="Eli Array Minkoff"/><br /><sub><b>Eli Array Minkoff</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Aeliminmax" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://www.tehpers.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/2214247?v=4?s=100" width="100px;" alt="TehPers"/><br /><sub><b>TehPers</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3ATehPers" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/chansey97"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/4015056?v=4?s=100" width="100px;" alt="Siyuan Chen"/><br /><sub><b>Siyuan Chen</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=chansey97" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/FrancescoLuzzi"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/81475751?v=4?s=100" width="100px;" alt="Francesco Luzzi"/><br /><sub><b>Francesco Luzzi</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3AFrancescoLuzzi" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://fahn.co"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/15943089?v=4?s=100" width="100px;" alt="Gibson Fahnestock"/><br /><sub><b>Gibson Fahnestock</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Agibfahn" title="Bug reports">🐛</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=gibfahn" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/zaucy"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/1284289?v=4?s=100" width="100px;" alt="Ezekiel Warren"/><br /><sub><b>Ezekiel Warren</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=zaucy" title="Code">💻</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/my4ng"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/17978089?v=4?s=100" width="100px;" alt="Michael Yang"/><br /><sub><b>Michael Yang</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=my4ng" title="Code">💻</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Markov-Komarov"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/83531009?v=4?s=100" width="100px;" alt="マルコフ"/><br /><sub><b>マルコフ</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3AMarkov-Komarov" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://veritemugabo.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/53856673?v=4?s=100" width="100px;" alt="Verité Mugabo"/><br /><sub><b>Verité Mugabo</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=veritem" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://kjkent.dev"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/96310790?v=4?s=100" width="100px;" alt="Kristopher James Kent"/><br /><sub><b>Kristopher James Kent</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Akjkent" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/dsvoid"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/7375973?v=4?s=100" width="100px;" alt="Dmitry S"/><br /><sub><b>Dmitry S</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Adsvoid" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://guse.dev"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/162893147?v=4?s=100" width="100px;" alt="realguse"/><br /><sub><b>realguse</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=realguse" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/doongjohn"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/40219740?v=4?s=100" width="100px;" alt="doongjohn"/><br /><sub><b>doongjohn</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Adoongjohn" title="Bug reports">🐛</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://julian.pawlowski.me"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/75446?v=4?s=100" width="100px;" alt="Julian Pawlowski"/><br /><sub><b>Julian Pawlowski</b></sub></a><br /><a href="#tool-jpawlowski" title="Tools">🔧</a> <a href="https://github.com/ryanoasis/nerd-fonts/commits?author=jpawlowski" title="Documentation">📖</a></span>
+
+
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/Gitoffthelawn/Contact-Gitoffthelawn"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/7672848?v=4?s=100" width="100px;" alt="Gitoffthelawn"/><br /><sub><b>Gitoffthelawn</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=Gitoffthelawn" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://nikunjmathur.vercel.app/"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/142373040?v=4?s=100" width="100px;" alt="Nikunj Mathur"/><br /><sub><b>Nikunj Mathur</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=nikunjmathur08" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/nikelborm"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/29357907?v=4?s=100" width="100px;" alt="Eva"/><br /><sub><b>Eva</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=nikelborm" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://bit.ly/cubuanic-github-contributions"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/75673?v=4?s=100" width="100px;" alt="Oleg Kostyuk"/><br /><sub><b>Oleg Kostyuk</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=cub-uanic" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/crummyh"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/188942224?v=4?s=100" width="100px;" alt="crummyh"/><br /><sub><b>crummyh</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=crummyh" title="Documentation">📖</a></span>
+
+
+
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- UPDATE END -->
 </div>
