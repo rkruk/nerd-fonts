@@ -4,7 +4,7 @@
       "unpatchedName": "0xProto",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "2.201",
+      "version": "2.300",
       "patchedName": "0xProto",
       "folderName": "0xProto",
       "imagePreviewFont": "0xProto Nerd Font",
@@ -12,6 +12,7 @@
       "linkPreviewFont": "oxproto",
       "caskName": "0xproto",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "A programming font focused on source code legibility"
     },
     {
@@ -26,7 +27,23 @@
       "linkPreviewFont": "font3270",
       "caskName": "3270",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Derived from the x3270 font, a modern format of a font with high nostalgic value"
+    },
+    {
+      "unpatchedName": "Adwaita Mono",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "32.4",
+      "patchedName": "AdwaitaMono",
+      "folderName": "AdwaitaMono",
+      "imagePreviewFont": "AdwaitaMono Nerd Font",
+      "imagePreviewFontSource": "AdwaitaMono/AdwaitaMono-Regular.ttf",
+      "linkPreviewFont": "adwaita-mono",
+      "caskName": "adwaita-mono",
+      "repoRelease": false,
+      "isMonospaced": true,
+      "description": "The monospace typeface for GNOME"
     },
     {
       "unpatchedName": "Agave",
@@ -40,6 +57,7 @@
       "linkPreviewFont": "agave",
       "caskName": "agave",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "A small, monospace, outline font that is geometrically regular and simple"
     },
     {
@@ -54,6 +72,7 @@
       "linkPreviewFont": "anonymous-pro",
       "caskName": "anonymice",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Inspired by Anonymous 9 on Macintosh, since 2009, distinct `O`, `0`, `I`, `l`, `1`"
     },
     {
@@ -68,7 +87,23 @@
       "linkPreviewFont": false,
       "caskName": "arimo",
       "repoRelease": true,
+      "isMonospaced": false,
       "description": "Metrically similar to Arial, pan-European WGL character set, sans serif"
+    },
+    {
+      "unpatchedName": "Atkinson Hyperlegible Mono",
+      "licenseId": "OFL-1.1-RFN",
+      "RFN": true,
+      "version": "2.001",
+      "patchedName": "AtkynsonMono",
+      "folderName": "AtkinsonHyperlegibleMono",
+      "imagePreviewFont": "AtkynsonMono NF",
+      "imagePreviewFontSource": "AtkinsonHyperlegibleMono/AtkinsonHyperlegibleMono-Regular.otf",
+      "linkPreviewFont": "atkinson-hyperlegible",
+      "caskName": "atkynson-mono",
+      "repoRelease": false,
+      "isMonospaced": true,
+      "description": "A monospaced font designed to improve legibility and readability for individuals with low vision"
     },
     {
       "unpatchedName": "Aurulent Sans Mono",
@@ -82,6 +117,7 @@
       "linkPreviewFont": "aurulent",
       "caskName": "aurulent-sans-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Sans serif, designed by Stephen G. Hartke which also created Verily Serif"
     },
     {
@@ -96,6 +132,7 @@
       "linkPreviewFont": "bigblue-terminal",
       "caskName": "bigblue-terminal",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Nostalgic, closely based on IBM's 8x14 EGA/VGA charset"
     },
     {
@@ -110,6 +147,7 @@
       "linkPreviewFont": "bitstream-vera",
       "caskName": "bitstream-vera-sans-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Dotted zero, compact lowercase characters"
     },
     {
@@ -124,27 +162,29 @@
       "linkPreviewFont": "plex-mono",
       "caskName": "blex-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "It's global, it's versatile and it's distinctly IBM"
     },
     {
       "unpatchedName": "Cascadia Code",
       "licenseId": "OFL-1.1-RFN",
       "RFN": true,
-      "version": "2111.01",
+      "version": "2407.24",
       "patchedName": "CaskaydiaCove",
       "folderName": "CascadiaCode",
       "imagePreviewFont": "CaskaydiaCove Nerd Font",
-      "imagePreviewFontSource": "CascadiaCode/Regular/CascadiaCode-Regular-vtt.ttf",
+      "imagePreviewFontSource": "CascadiaCode/CascadiaCode-Regular-vtt.ttf",
       "linkPreviewFont": "cascadia-code",
       "caskName": "caskaydia-cove",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "A fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal"
     },
     {
       "unpatchedName": "Cascadia Mono",
       "licenseId": "OFL-1.1-RFN",
       "RFN": true,
-      "version": "2111.01",
+      "version": "2407.24",
       "patchedName": "CaskaydiaMono",
       "folderName": "CascadiaMono",
       "imagePreviewFont": "CaskaydiaMono NF",
@@ -152,6 +192,7 @@
       "linkPreviewFont": false,
       "caskName": "caskaydia-mono",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Like Cascadia Code but without any ligatures"
     },
     {
@@ -166,13 +207,14 @@
       "linkPreviewFont": "code-new-roman",
       "caskName": "code-new-roman",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Tunable, slashed zeros, compact smaller characters"
     },
     {
       "unpatchedName": "Comic Shanns Mono",
       "licenseId": "MIT",
       "RFN": false,
-      "version": "1.3.1",
+      "version": "1.3.2",
       "patchedName": "ComicShannsMono",
       "folderName": "ComicShannsMono",
       "imagePreviewFont": "ComicShannsMono Nerd Font",
@@ -180,6 +222,7 @@
       "linkPreviewFont": false,
       "caskName": "comic-shanns-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "The very typeface you’ve been trained to recognize since childhood"
     },
     {
@@ -194,6 +237,7 @@
       "linkPreviewFont": "commit-mono",
       "caskName": "commit-mono",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "An anonymous and neutral programming typeface"
     },
     {
@@ -208,6 +252,7 @@
       "linkPreviewFont": "cousine",
       "caskName": "cousine",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Similar to Courier New with better readablitiy, dotted zeros"
     },
     {
@@ -222,6 +267,7 @@
       "linkPreviewFont": "d2coding",
       "caskName": "d2coding",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "A coding font for Koreans. This is the variant with ligatures."
     },
     {
@@ -236,21 +282,8 @@
       "linkPreviewFont": "daddytimemono",
       "caskName": "daddy-time-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "A monospaced font for programmers and other terminal groupies"
-    },
-    {
-      "unpatchedName": "Departure Mono",
-      "licenseId": "OFL-1.1-no-RFN",
-      "RFN": false,
-      "version": "1.422",
-      "patchedName": "DepartureMono",
-      "folderName": "DepartureMono",
-      "imagePreviewFont": "DepartureMono Nerd Font",
-      "imagePreviewFontSource": "DepartureMono/DepartureMono-Regular.otf",
-      "linkPreviewFont": "departure-mono",
-      "caskName": "departure-mono",
-      "repoRelease": false,
-      "description": "A monospaced pixel font with a lo-fi, techy vibe"
     },
     {
       "unpatchedName": "DejaVu Sans Mono",
@@ -264,7 +297,23 @@
       "linkPreviewFont": "dejavu",
       "caskName": "dejavu-sans-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Dotted zero, based on the Bitstream Vera Fonts with a wider range of character"
+    },
+    {
+      "unpatchedName": "Departure Mono",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "1.422",
+      "patchedName": "DepartureMono",
+      "folderName": "DepartureMono",
+      "imagePreviewFont": "DepartureMono Nerd Font",
+      "imagePreviewFontSource": "DepartureMono/DepartureMono-Regular.otf",
+      "linkPreviewFont": "departure-mono",
+      "caskName": "departure-mono",
+      "repoRelease": false,
+      "isMonospaced": true,
+      "description": "A monospaced pixel font with a lo-fi, techy vibe"
     },
     {
       "unpatchedName": "Droid Sans Mono",
@@ -278,6 +327,7 @@
       "linkPreviewFont": "droid-sans",
       "caskName": "droid-sans-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Good for small screens or font sizes"
     },
     {
@@ -293,6 +343,7 @@
       "linkPreviewFont": "envy-code-r",
       "caskName": "envy-code-r",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Fully-scalable monospaced font designed for programming and command prompts"
     },
     {
@@ -307,6 +358,7 @@
       "linkPreviewFont": "fantasque-sans",
       "caskName": "fantasque-sans-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "\"Wibbly-wobbly handwriting-like fuzziness\", takes some inspiration from Inconsolata and Monaco"
     },
     {
@@ -321,6 +373,7 @@
       "linkPreviewFont": "firacode",
       "caskName": "fira-code",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Programming ligatures, extension of Fira Mono font, enlarged operators"
     },
     {
@@ -335,13 +388,14 @@
       "linkPreviewFont": "fira",
       "caskName": "fira-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Mozilla typeface, dotted zero"
     },
     {
       "unpatchedName": "Geist Mono",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "1.2.0 (1.3.0)",
+      "version": "1.401",
       "patchedName": "GeistMono",
       "folderName": "GeistMono",
       "imagePreviewFont": "GeistMono NF",
@@ -349,6 +403,7 @@
       "linkPreviewFont": "geist",
       "caskName": "geist-mono",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Monospaced typeface designed to be used in code editors, diagrams, terminals, and other textbased interfaces where code is represented"
     },
     {
@@ -363,6 +418,7 @@
       "linkPreviewFont": "go-mono",
       "caskName": "go-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Created specifically for the Go project, looks particularly clear for use with the Go language"
     },
     {
@@ -377,6 +433,7 @@
       "linkPreviewFont": "gohufont-14",
       "caskName": "gohufont",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Bitmap font, tall capitals and ascenders, small serifs"
     },
     {
@@ -391,6 +448,7 @@
       "linkPreviewFont": "hack",
       "caskName": "hack",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Dotted zero, short descenders, expands upon work done for Bitstream Vera &amp; DejaVu, legible at common sizes"
     },
     {
@@ -405,6 +463,7 @@
       "linkPreviewFont": "hasklig",
       "caskName": "hasklug",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Monospaced ligatures, makes composite glyphs (e.g. ->) more reabable, especially in Haskell"
     },
     {
@@ -419,6 +478,7 @@
       "linkPreviewFont": false,
       "caskName": "heavy-data",
       "repoRelease": true,
+      "isMonospaced": false,
       "description": "Novel and unique design, dotted zero"
     },
     {
@@ -433,6 +493,7 @@
       "linkPreviewFont": "hermit",
       "caskName": "hurmit",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Symbols stand out from common text"
     },
     {
@@ -447,6 +508,7 @@
       "linkPreviewFont": "ia-writer-mono",
       "caskName": "im-writing",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "A heavy modification of IBM's Plex font"
     },
     {
@@ -461,6 +523,7 @@
       "linkPreviewFont": "inconsolata",
       "caskName": "inconsolata",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Slashed zero, takes inspiration from many different fonts and glyphs, subtle curves in lowercase"
     },
     {
@@ -475,13 +538,14 @@
       "linkPreviewFont": "inconsolata-go",
       "caskName": "inconsolata-go",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Inconsolata with straight quotes"
     },
     {
       "unpatchedName": "Inconsolata LGC",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "1.5.2",
+      "version": "1.13",
       "patchedName": "Inconsolata LGC",
       "folderName": "InconsolataLGC",
       "imagePreviewFont": "Inconsolata LGC Nerd Font",
@@ -489,6 +553,7 @@
       "linkPreviewFont": false,
       "caskName": "inconsolata-lgc",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Inconsolata with added the Cyrillic alphabet"
     },
     {
@@ -503,13 +568,14 @@
       "linkPreviewFont": "intel-one-mono",
       "caskName": "intone-mono",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind"
     },
     {
       "unpatchedName": "Iosevka",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "29.0.4",
+      "version": "33.2.1",
       "patchedName": "Iosevka",
       "folderName": "Iosevka",
       "imagePreviewFont": "Iosevka Nerd Font",
@@ -517,13 +583,14 @@
       "linkPreviewFont": "iosevka",
       "caskName": "iosevka",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Narrow and horizontally tight characters, slashed zero"
     },
     {
       "unpatchedName": "Iosevka Term",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "29.0.4",
+      "version": "33.2.1",
       "patchedName": "IosevkaTerm",
       "folderName": "IosevkaTerm",
       "imagePreviewFont": "IosevkaTerm Nerd Font",
@@ -531,13 +598,14 @@
       "linkPreviewFont": false,
       "caskName": "iosevka-term",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "A narrower variant focusing terminal uses: Arrows and geometric symbols will be narrow to follow typical terminal usages"
     },
     {
       "unpatchedName": "Iosevka Term Slab",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "29.0.4",
+      "version": "33.2.1",
       "patchedName": "IosevkaTermSlab",
       "folderName": "IosevkaTermSlab",
       "imagePreviewFont": "IosevkaTermSlab NF",
@@ -545,6 +613,7 @@
       "linkPreviewFont": false,
       "caskName": "iosevka-term-slab",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Nice as Iosevka but with slab serifs"
     },
     {
@@ -559,6 +628,7 @@
       "linkPreviewFont": "jetbrainsmono",
       "caskName": "jetbrains-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "JetBrains officially created font for developers"
     },
     {
@@ -573,6 +643,7 @@
       "linkPreviewFont": "lekton",
       "caskName": "lekton",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Very light and thin characters, sharp m's, `0` and `O` very similar"
     },
     {
@@ -587,13 +658,14 @@
       "linkPreviewFont": "liberation",
       "caskName": "liberation",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "`0` and `O` very similar, very short tight descenders"
     },
     {
       "unpatchedName": "Lilex",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "2.400",
+      "version": "2.600",
       "patchedName": "Lilex",
       "folderName": "Lilex",
       "imagePreviewFont": "Lilex Nerd Font",
@@ -601,13 +673,14 @@
       "linkPreviewFont": "lilex",
       "caskName": "lilex",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Modern with ligatures"
     },
     {
       "unpatchedName": "MartianMono",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "1.0.0",
+      "version": "1.1.0",
       "patchedName": "MartianMono",
       "folderName": "MartianMono",
       "imagePreviewFont": "MartianMono NF",
@@ -615,6 +688,7 @@
       "linkPreviewFont": "martian-mono",
       "caskName": "martian-mono",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Free and open-source monospaced font from Evil Martians"
     },
     {
@@ -629,13 +703,14 @@
       "linkPreviewFont": "meslo",
       "caskName": "meslo-lg",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Slashed zeros, customized version of Apple's Menlo"
     },
     {
       "unpatchedName": "Monaspace",
       "licenseId": "OFL-1.1-RFN",
       "RFN": true,
-      "version": "1.101",
+      "version": "1.200",
       "patchedName": "Monaspice",
       "folderName": "Monaspace",
       "imagePreviewFont": "MonaspiceNe NF",
@@ -643,6 +718,7 @@
       "linkPreviewFont": "monaspace-neon",
       "caskName": "monaspace",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Five matching fonts all having 'texture healing' to improve legibility"
     },
     {
@@ -657,6 +733,7 @@
       "linkPreviewFont": "monofur",
       "caskName": "monofur",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Dotted zeros, slightly exaggerated curvy characters, compact characters"
     },
     {
@@ -671,6 +748,7 @@
       "linkPreviewFont": "monoid",
       "caskName": "monoid",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Ligatures, distinguishable glyphs with short ascenders &amp; descenders, large operators &amp; punctuation"
     },
     {
@@ -686,13 +764,14 @@
       "linkPreviewFont": "mononoki",
       "caskName": "mononoki",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Keeps in mind differentiation of characters and resolution sizes"
     },
     {
       "unpatchedName": "MPlus",
       "licenseId": "OFL-1.1-no-RFN",
       "RFN": false,
-      "version": "2023/09",
+      "version": "1.007",
       "patchedName": "M+",
       "folderName": "MPlus",
       "imagePreviewFont": "M+1Code Nerd Font",
@@ -700,6 +779,7 @@
       "linkPreviewFont": "mplus",
       "caskName": "m+",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Multiple styles and weights, many glyph sets (e.g. Kana glyphs)"
     },
     {
@@ -714,6 +794,7 @@
       "linkPreviewFont": "noto",
       "caskName": "noto",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "`0` and `O` very similar, characters are either very curvy or straight lined"
     },
     {
@@ -728,6 +809,7 @@
       "linkPreviewFont": "opendyslexic",
       "caskName": "open-dyslexic",
       "repoRelease": true,
+      "isMonospaced": false,
       "description": "Designed specifically to alleviate reading errors caused by dyslexia"
     },
     {
@@ -742,6 +824,7 @@
       "linkPreviewFont": "overpass",
       "caskName": "overpass",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "An open source font family inspired by Highway Gothic"
     },
     {
@@ -756,6 +839,7 @@
       "linkPreviewFont": "profont",
       "caskName": "profont",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Looks best with anti-aliasing turned off, squared off character corners, vertically tight small `s`"
     },
     {
@@ -770,6 +854,7 @@
       "linkPreviewFont": "proggy-clean",
       "caskName": "proggy-clean-tt",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Designed particularly for use at small point sizes"
     },
     {
@@ -784,6 +869,7 @@
       "linkPreviewFont": "recursive-mono-linear",
       "caskName": "recursive-mono",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "inspired by casual script signpainting, 4 variants"
     },
     {
@@ -798,6 +884,7 @@
       "linkPreviewFont": "roboto",
       "caskName": "roboto-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Dashed zero, curved and straight character lines"
     },
     {
@@ -812,6 +899,7 @@
       "linkPreviewFont": "share-tech",
       "caskName": "shure-tech-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Dotted zeros, distinguishable 1 and l, curved and straight character lines"
     },
     {
@@ -826,6 +914,7 @@
       "linkPreviewFont": "source-code-pro",
       "caskName": "sauce-code-pro",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Monospaced font family for user interface and coding environments"
     },
     {
@@ -840,6 +929,7 @@
       "linkPreviewFont": "space",
       "caskName": "space-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Squarish character lines, dotted zero, aggressive parethesis"
     },
     {
@@ -854,6 +944,7 @@
       "linkPreviewFont": false,
       "caskName": "symbols-only",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Just the Nerd Font Icons. I.e Symbol font only"
     },
     {
@@ -868,6 +959,7 @@
       "linkPreviewFont": "terminus",
       "caskName": "terminess-ttf",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Squarish characters that are slightly askew"
     },
     {
@@ -882,6 +974,7 @@
       "linkPreviewFont": false,
       "caskName": "tinos",
       "repoRelease": true,
+      "isMonospaced": false,
       "description": "Some similarities to Times New Roman, designed by Steve Matteson, includes pan-European WGL character set"
     },
     {
@@ -896,6 +989,7 @@
       "linkPreviewFont": false,
       "caskName": "ubuntu",
       "repoRelease": true,
+      "isMonospaced": false,
       "description": "Specially created for Ubuntu"
     },
     {
@@ -910,13 +1004,14 @@
       "linkPreviewFont": "ubuntu",
       "caskName": "ubuntu-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Dotted zeros, used the `n`, `o`, `H` &amp; `O` Latin characters as a base for design"
     },
     {
       "unpatchedName": "Ubuntu Sans",
       "licenseId": "LicenseRef-UbuntuFont",
       "RFN": false,
-      "version": "1.004",
+      "version": "1.006",
       "patchedName": "UbuntuSans",
       "folderName": "UbuntuSans",
       "imagePreviewFont": "UbuntuSansMono NF",
@@ -924,6 +1019,7 @@
       "linkPreviewFont": false,
       "caskName": "ubuntu-sans",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Refreshed version of Ubuntu and Ubuntu Mono fonts"
     },
     {
@@ -938,6 +1034,7 @@
       "linkPreviewFont": "victor-mono",
       "caskName": "victor-mono",
       "repoRelease": true,
+      "isMonospaced": true,
       "description": "Clean, crisp and narrow, with a large x-height and clear punctuation"
     },
     {
@@ -952,6 +1049,7 @@
       "linkPreviewFont": false,
       "caskName": "zed-mono",
       "repoRelease": false,
+      "isMonospaced": true,
       "description": "Zed Mono is a more rounded version of Iosevka"
     }
   ]
